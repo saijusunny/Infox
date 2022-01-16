@@ -1,0 +1,286 @@
+body{
+    background: color #e4e9f7;
+    font-family: "Poppins" , sans-serif;  
+    
+}
+ 
+
+.nav-tabile{
+   margin-left: 68%;
+   margin-top: 95px;
+   font-size: 25px;
+
+   color: #e4e9f7;
+   padding-top: 10px;
+   
+}
+#nav{
+    padding: 20px;
+    text-decoration: none;
+}
+.navigation{
+    margin-top: -100px;
+    height: 75px;
+    width: 100%;
+    background-color: #1d1b31;
+}
+#name{
+    font-size: 72px;
+    margin-left: 25%;
+    margin-top: 150px;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+#sub-name{
+    font-size: 32px;
+    margin-left: 150px;
+    text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;   
+    font-weight: 300x;
+    margin-top: -35px;
+    background-color: #1d1b31;
+    color: #e4e9f7;
+    margin-right: 15%;
+}
+.name{
+    margin-left: 20px;
+    margin-right: 500px;
+
+}
+.login{
+    width: 500px;
+    background-color: #1d1b31;
+    height: auto;
+    margin-left: 60%;
+    margin-top: -280px;
+    padding-top: 20px;
+    box-shadow: 0 0 20px 9px #1d1b31;
+    border-radius: 30px;
+}
+.button-box{
+    width: 400px;
+    margin: 35px auto;
+    position: relative;
+    box-shadow: 0 0 20px 9px #e4e9f7;
+    border-radius: 30px;
+    background-color: #1d1b31;
+    
+}
+.btn{
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 150px;
+    height: 100%;
+    background-color: linear-gradient(to right, #003ad8, #1d1b31);
+    border-radius: 30px;
+    transition: .5s;
+
+}
+
+#login-head{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #e4e9f7;
+    text-align: center;
+}
+#login-input{
+    top: 180px;
+    width: 400px;
+    margin-left: 45px;
+    margin-top: 10px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid #e4e9f7;
+    background-color: transparent;
+    outline: none;   
+    color: #e4e9f7;
+    text-align: center;
+    height: 50px;
+}
+#login-input:hover{
+   
+    box-shadow: 0 0 20px 9px #e4e9f7;
+    border-radius: 30px;
+}
+#login-input:focus{
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 20px 9px #e4e9f7;
+    border-radius: 30px;
+}
+#button-login{
+    padding: 10px 30px;
+    cursor: pointer;
+    background-color: transparent;
+    border: 0;
+    outline: none;
+    position: relative;
+    width: 150px;
+    margin-left: 28px;
+    border-radius: 10px;
+    color: #e4e9f7;
+}
+#button-login:focus{
+    background-color: #e4e9f7;
+    color: #1d1b31;
+}
+#login-button{
+    width: 200px;
+    margin-left: 150px;
+    border-radius: 30px;
+    background-color: white;
+    outline: none;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    height: 50px;
+  
+}
+#login-button:hover{
+    box-shadow: 0 0 20px 9px #e4e9f7;
+    outline: none;
+    background-color: #1d1b31;
+    color: #e4e9f7;
+
+}
+#imgtag{
+    margin-left: 175px;
+    }
+#nav-btn{
+        
+    cursor: pointer;
+    background-color: transparent;
+    border: 0;
+    outline: none;
+    position: relative;
+    width: 100px;
+    border-radius: 10px;
+    color: #e4e9f7;
+}
+#nav-btn:hover{
+    box-shadow: 0 0 20px 9px #e4e9f7;
+}
+#nav-btn:focus{
+    box-shadow: 0 0 20px 9px #e4e9f7;
+    background-color: #e4e9f7;
+    color: #1d1b31;
+   
+}
+/*gallary*/
+.div1{
+    background-color: #1d1b31;
+    border-radius: 10px;
+    width: 1250px;
+    height: 500px;
+    margin: 50px 50px;
+    box-shadow: 0 0 20px 9px #000000;
+    padding-top: 40px;
+    
+}
+
+.div2{
+    background-color: #1d1b31;
+    width: 1250px;
+    height: 500px;
+    margin: 50px 50px;
+    box-shadow: 0 0 20px 9px #000000;
+    border-radius: 10px;
+}
+
+.div3{
+    background-color: #1d1b31;
+    width: 1250px;
+    height: 500px;
+    margin: 50px 50px;
+    box-shadow: 0 0 20px 9px #000000;
+    border-radius: 10px;
+    padding-top: 40px;
+}
+
+.div1-sub{
+    background-color: #e4e9f7;
+    width: 500px;
+    height: 450px;
+    box-shadow: 0 0 20px 9px #000000;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-top: -420px;
+    
+}
+
+.div2-sub{
+    background-color: #e4e9f7;
+    width: 500px;
+    height: 450px;
+    box-shadow: 0 0 20px 9px #000000;
+    border-radius: 10px;
+    margin-top: -390px;
+    
+}
+.div3-sub{
+    background-color: #e4e9f7;
+    width: 500px;
+    height: 450px;
+    box-shadow: 0 0 20px 9px #000000;
+    border-radius: 10px;
+    margin-left: 700px;
+    margin-top: -400px;
+    
+    
+}
+#game{
+    width: 700px;
+    margin-left: 20px;
+    margin-top: 17px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 9px #000000;
+}
+#imgtag2{
+    margin-left: 600px;
+    width: 600px;
+    margin-top: 80px;
+    box-shadow: 0 0 20px 9px #000000;
+    
+} 
+#imgtag3{
+    width: 600px;
+    margin-left: 20px;
+    margin-top: 50px;
+    box-shadow: 0 0 20px 9px #000000;
+}
+
+
+
+.home{
+    background-image: url("Background image.png");
+    height: 600px;
+    background-size: cover;
+    margin-top: 25px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.main_name{
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: justify;
+    padding-top: 200px;
+}
+
+#more{
+    background-color: #1d1b31;
+    color: #e4e9f7;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 40%;
+    margin-top: 8%;
+    width: 150px;
+}
+#more:hover{
+    box-shadow: 0 0 20px 9px #e4e9f7;
+}
+#more:focus{
+    box-shadow: 0 0 20px 9px #1d1b31;
+    background-color: #e4e9f7;
+    color: #1d1b31;
+}
